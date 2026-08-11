@@ -1,5 +1,5 @@
-# Day-8-of-60-Days-Claude-Challenge
-Build Your First AI-Powered Dashboard
+# Build Your First AI-Powered Dashboard_Day 8
+
 I built something I've wanted for a while: a 𝗣𝗲𝗿𝘀𝗼𝗻𝗮𝗹 𝗘𝗻𝘃𝗶𝗿𝗼𝗻𝗺𝗲𝗻𝘁𝗮𝗹 𝗛𝗲𝗮𝗹𝘁𝗵 𝗔𝗻𝗮𝗹𝘆𝘀𝗲𝗿. This fully interactive dashboard turns raw #AQI and #water_quality data into something you can actually act on.
 
 The idea started simple: 
